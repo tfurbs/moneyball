@@ -1,1 +1,10 @@
 # moneyball
+A quick analysis of NFL Data from 1950 - 2017. This analysis leverages logistic regressions to determine which plays in a game have the most statistically significant effect on winning, a la Moneyball
+
+Packages:
+json
+pandas
+klearn.linear_model, LogisticRegression
+matplotlib.pyplot
+statsmodels.discrete.discrete_model, Logit
+sklearn.metrics, accuracy_score
